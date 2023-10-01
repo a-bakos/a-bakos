@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a UK-based full-stack web developer with extensive experience working in the publishing industry building websites, products, and platforms for authors, editors, marketers, journalists, and visitors.
+I'm a UK-based full-stack web developer with extensive experience working in the publishing industry building websites, products, and platforms for authors, editors, marketers, and journalists.
 
 **<ins>Status:</ins> I am currently considering new positions where I'll have the chance to work with Rust 🦀.** 
 
