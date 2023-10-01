@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a UK-based full-stack web developer with extensive experience working in the publishing industry building websites, products, and platforms for authors, editors, marketers, journalists, and visitors.
+
+**<ins>Status:</ins> I am currently considering new positions where I'll have the chance to work with Rust 🦀.** 
+
+_Skills: Rust, PHP (8.0+), JavaScript, MySQL, PostgreSQL, WordPress, Tailwind CSS, Sass, some Python, REST APIs, semantic HTML, Git ..._
+
+[**Reach me on LinkedIn**](https://www.linkedin.com/in/attilabakos/)
+
 <!--
 **a-bakos/a-bakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
