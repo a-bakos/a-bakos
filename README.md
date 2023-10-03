@@ -4,7 +4,7 @@ I'm a UK-based full-stack web developer with extensive experience working in the
 
 **<ins>Status:</ins> I am currently considering new positions where I'll have the chance to work with Rust 🦀.** 
 
-_Skills: Rust, PHP (8.0+), JavaScript, MySQL, PostgreSQL, WordPress, Tailwind CSS, semantic HTML5, CSS3, Sass, some Python, REST APIs, Git ..._
+_Skills: Rust, PHP (8.0+), JavaScript, TypeScript, MySQL, PostgreSQL, WordPress, Tailwind CSS, semantic HTML5, CSS3, Sass, Python, REST APIs, Git ..._
 
 [**Reach me on LinkedIn**](https://www.linkedin.com/in/attilabakos/)
 
