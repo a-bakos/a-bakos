@@ -2,7 +2,7 @@
 
 I'm a UK-based full-stack web developer with extensive experience working in the publishing industry building websites, products, and platforms for authors, editors, marketers, and journalists.
 
-**<ins>Status:</ins> I am currently considering new positions where I'll have the chance to work with Rust 🦀.** 
+**<ins>Status:</ins> I am currently considering new positions** 
 
 _Skills: Rust, PHP (8.0+), JavaScript, TypeScript, MySQL, PostgreSQL, WordPress, Tailwind CSS, semantic HTML5, CSS3, Sass, Python, REST APIs, Git ..._
 
