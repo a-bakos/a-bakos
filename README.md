@@ -6,7 +6,7 @@ I have designed and built production APIs, data-processing pipelines and authent
  
 I particularly enjoy solving problems involving system integration, data transformation, reliability and architectural boundaries, and I naturally gravitate toward the parts of a system that require careful technical reasoning rather than simply adding features.
  
-Core technologies: PHP, WordPress as an enterprise publishing application framework, JavaScript/TypeScript, SQL/MySQL, Git, Docker, AWS and CI/CD.
+Core technologies: PHP, Go, Rust, JavaScript/TypeScript, SQL/MySQL/PostgreSQL, Git, Docker, AWS and CI/CD.
  
 I am currently expanding my backend engineering experience with Go and Rust, with a particular interest in systems architecture, security and reliable backend services.
 
